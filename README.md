@@ -2,7 +2,12 @@
 
 [点此返回主站](https://mqygalaxy.github.io/MqyGalaxyBlog.github.io/)
 
-**1.0（最新）**
+**1.01（最新）**
+（2020.6.5）
+
+- 更新了“EPIC又送了什么”
+
+**1.0**
 （2020.6.4）
 
 - 修改了“MqyGalaxyBlog更新情况”的语病
