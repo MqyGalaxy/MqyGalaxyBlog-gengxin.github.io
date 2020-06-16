@@ -1,5 +1,7 @@
 ## MqyGalaxyBlog更新情况
 
+网站中使用的头图ID为 Pixiv 图片ID
+
 “-”版本为补充更新，不作为独立版本。
 
 [点此返回主站](https://mqygalaxy.github.io/MqyGalaxyBlog.github.io/)
