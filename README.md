@@ -1,10 +1,17 @@
 ## MqyGalaxyBlog更新情况
 
+如果您是dalao，看到这里请勿见笑~~~~
+
 网站中使用的头图ID为 [Pixiv](https://www.pixiv.net/) 图片ID
 
 “-”版本为补充更新，不作为独立版本。
 
 [点此返回主站](https://mqygalaxy.github.io/MqyGalaxyBlog.github.io/)
+
+**1.0-2（最新）**
+（2020.6.22）
+
+- 尝试使用视频嵌入代码（iframe），现在运用于“推荐游戏-东方Project-同人音乐-Bad Apple!!-影绘PV”中
 
 **1.0-1（最新）**
 （2020.6.5）
