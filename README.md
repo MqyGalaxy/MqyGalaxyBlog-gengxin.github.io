@@ -6,7 +6,7 @@
 
 “-”版本为补充更新，不作为独立版本。
 
-[点此返回主站](https://mqygalaxy.github.io/MqyGalaxyBlog.github.io/)
+[点此返回主站](https://mqygalaxy.github.io/)
 
 **1.0-2（最新）**
 （2020.6.22）
@@ -57,4 +57,4 @@
 
 - 网站建站
 
-[点此返回主站](https://mqygalaxy.github.io/MqyGalaxyBlog.github.io/)
+[点此返回主站](https://mqygalaxy.github.io/)
