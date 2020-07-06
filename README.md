@@ -10,7 +10,14 @@
 
 [点此返回主站](https://mqygalaxy.github.io/)
 
-**1.726（最新）**
+**1.726-1（最新）**
+（2020.7.6）
+
+- 使用了黑幕css样式，转载自萌娘百科[https://zh.moegirl.org/MediaWiki:Common.css](https://zh.moegirl.org/MediaWiki:Common.css)
+
+- 感谢萌娘百科，程序员手打辛苦了！！！
+
+**1.726**
 （2020.7.5）
 
 - 在Gitee(码云)共享了仓库
