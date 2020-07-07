@@ -17,6 +17,13 @@
 
 - 感谢萌娘百科，程序员手打辛苦了！！！
 
+*demo 1*
+(2020.7.7)
+
+- 添加 APlayer HTML5播放器，在未来会代替其他播放器
+
+- APlayer 官网：[https://aplayer.js.org](https://aplayer.js.org)
+
 **1.726**
 （2020.7.5）
 
