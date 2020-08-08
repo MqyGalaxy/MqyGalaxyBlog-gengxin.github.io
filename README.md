@@ -10,7 +10,12 @@
 
 [点此返回主站](https://mqygalaxy.github.io/)
 
-**2.0-2（最新）**
+**2.0-3（最新）**
+（2020.8.4）
+
+- 添加了网站详细说明（FAQ），可以在“关于MyBlog”中进入查看
+
+**2.0-2**
 （2020.8.4）
 
 - 重新设计“温馨小窝”，参考“赞州中学 勇者部电子板报”[http://yushabu.jp/](http://yushabu.jp/) (老二刺螈了我）感谢东乡<del>（程序员）</del>
@@ -19,7 +24,7 @@
 
 - 暂时关闭博文
 
-**2.0-1（最新）**
+**2.0-1**
 （2020.7.24）
 
 - 重新设计“关于MyBlog”，参考“维基萌”[https://www.wikimoe.com/about.html](https://www.wikimoe.com/about.html) by 广树
