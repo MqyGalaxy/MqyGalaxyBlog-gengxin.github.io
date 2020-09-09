@@ -10,15 +10,24 @@
 
 [点此返回主站](https://mqygalaxy.github.io/)
 
+**2.0-5（最新）**
+（2020.9.9）
+
+- 主页添加“MORE PAGES”用来浏览目前存在的博文
+
+- “NEW PAGES”改为用来浏览最新博文
+
+- 参考了宝石幻想：光芒重现官网(日本) [https://www.lapisrelights.com/](https://www.lapisrelights.com/)
+
 **2.0-4（最新）**
-（2020.8.4）
+（2020.8.25）
 
 - 主页添加“NEW PAGES”用来浏览目前存在的博文
 
-- 参考了宝石幻想：光明重现官网(日本) [https://www.lapisrelights.com/](https://www.lapisrelights.com/)
+- 参考了宝石幻想：光芒重现官网(日本) [https://www.lapisrelights.com/](https://www.lapisrelights.com/)
 
 **2.0-3**
-（2020.8.4）
+（2020.8.9）
 
 - 添加了网站详细说明（FAQ），可以在“关于MyBlog”中进入查看
 
