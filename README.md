@@ -19,6 +19,12 @@
 
 - 参考了宝石幻想：光芒重现官网(日本) [https://www.lapisrelights.com/](https://www.lapisrelights.com/)
 
+*demo 1*
+
+- 添加了新的footer
+
+- 添加了“友情链接”（网站本未完工，详情请见FAQ）
+
 **2.0-4**
 （2020.8.25）
 
